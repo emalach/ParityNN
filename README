@@ -1,0 +1,4 @@
+Train all models:
+    python parity_for_nips.py
+Plot training graphs:
+    python parse_results.py
